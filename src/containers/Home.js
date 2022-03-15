@@ -149,10 +149,10 @@ const HomepageLayout = () => (
           Breaking The Grid, Grabs Your Attention
         </Header>
         <p style={{ fontSize: "1.33em" }}>
-          Instead of focusing on content creation and hard work, we have learned
-          how to master the art of doing nothing by providing massive amounts of
-          whitespace and generic content that can seem massive, monolithic and
-          worth your attention.
+          You may be thinking, what a great store, what great products, how is this possible?
+          Well let me tell you, that is the power of Django React, and some creative thinking. 
+          Don't miss out on your chance to purchase some amazing products today at the ease 
+          of a few clicks. 
         </p>
         <Button as="a" size="large">
           Read More
@@ -166,12 +166,13 @@ const HomepageLayout = () => (
           <a href="#case-studies">Case Studies</a>
         </Divider>
         <Header as="h3" style={{ fontSize: "2em" }}>
-          Did We Tell You About Our Bananas?
+          Have we heard about fruititarian toilet paper? 
         </Header>
         <p style={{ fontSize: "1.33em" }}>
-          Yes I know you probably disregarded the earlier boasts as non-sequitur
-          filler content, but it's really true. It took years of gene splicing
-          and combinatory DNA research, but our bananas can really dance.
+          It's totally edible, but we don't recommend eating after use. This frutitarian
+          toilet paper was created without killing trees or animals! Infact, it's made 
+          entirely from soil that had lost its neutrients long ago. After use, return it to
+          your yard to help fertilize your garden!
         </p>
         <Button as="a" size="large">
           I'm Still Quite Interested
